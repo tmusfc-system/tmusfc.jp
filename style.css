@@ -1,0 +1,145 @@
+/* 全体のスタイル */
+* {
+    box-sizing: border-box;
+  }
+  
+  /* リンクのデフォルトスタイル */
+  a {
+    color: skyblue;
+    text-decoration: none;
+  }
+  
+  /* 全体のレイアウト */
+  body {
+    margin: 0;
+    padding: 0;
+    background-color: black;
+  }
+  
+  /* ヘッダーとナビゲーションのスタイル */
+  header,
+  nav {
+    text-align: center;
+    background-color: black;
+  }
+  
+  /* リストアイテム */
+  nav ul {
+    display: flex;
+    list-style: none;
+    padding: 0;
+  }
+  
+  nav ul li {
+    flex: 1;
+    text-align: center;
+    border: 3px solid white;
+    padding: 15px;
+  }
+  
+  /* ナビゲーションリンク */
+  nav a {
+    color: skyblue;
+  }
+  
+ nav ul li.on a {
+    color: skyblue;
+  }
+  
+  /* メインコンテンツ */
+  main {
+    width: 900px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: black;
+    font-family: sans-serif;
+  }
+  
+  /* 画像のスタイル */
+  .photo {
+    width: 250px;
+    height: auto;
+    margin: 10px;
+    clip-path: circle(125px at 125px 125px);
+  }
+  
+  .photo:hover {
+    transform: scale(1.1);
+  }
+  
+  /* フッター */
+  footer {
+    width: 900px;
+    margin: 20px auto;
+    padding: 0;
+    background-color: black;
+  }
+  
+  /* フォントサイズ */
+  .mz {
+    font-size: 18px;
+  }
+  
+  /* 画像ギャラリー */
+  main div {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  /* 画像 */
+  .image {
+    width: 200px;
+    height: 300px;
+    margin: 8px;
+  }
+  
+  /* その他 */
+  li {
+    list-style: none;
+  }
+  
+  /* ヘッダー */
+  header {
+    display: flex;
+    align-items: center;
+  }
+  
+  /* 画像とテキストの間隔 */
+  .photo {
+    margin-right: 20px;
+  }
+  
+  /* タイトルのマージン */
+  .title {
+    margin: 0;
+  }
+  
+  /* 画像のクリップ */
+  figure {
+    text-align: center;
+    font-size: 13px;
+  }
+
+  /* ヘッダー */
+header {
+    display: flex;
+    align-items: center;
+    justify-content: left; /* 水平方向に中央揃えにする */
+  }
+  
+  /* 画像 */
+  .photo {
+    width: 180px;
+    height: auto;
+    margin-right: 10px;
+    clip-path: circle(90px at 90px 90px);
+  }
+  
+  /* タイトル */
+  .title {
+    margin: 0;
+    color: skyblue; /* テキストの色を指定 */
+  }
+  
+  
