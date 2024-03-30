@@ -1,145 +1,124 @@
 /* 全体のスタイル */
 * {
     box-sizing: border-box;
-  }
-  
-  /* リンクのデフォルトスタイル */
-  a {
+}
+
+/* リンク */
+a {
     color: skyblue;
     text-decoration: none;
-  }
-  
-  /* 全体のレイアウト */
-  body {
-    margin: 0;
-    padding: 0;
+}
+
+/* ページ全体 */
+body {
+    margin: 80;
+    padding: 10;
     background-color: black;
-  }
-  
-  /* ヘッダーとナビゲーションのスタイル */
-  header,
-  nav {
-    text-align: center;
+}
+
+/* ヘッダーとナビゲーション */
+header,
+nav {
+    text-align: left;
     background-color: black;
-  }
-  
-  /* リストアイテム */
-  nav ul {
+}
+
+/* ナビゲーション */
+nav ul {
     display: flex;
     list-style: none;
-    padding: 0;
-  }
-  
-  nav ul li {
+    padding: 10;
+}
+
+nav ul li {
     flex: 1;
-    text-align: center;
-    border: 3px solid white;
+    text-align: left;
     padding: 15px;
-  }
-  
-  /* ナビゲーションリンク */
-  nav a {
+}
+
+nav a {
     color: skyblue;
-  }
-  
- nav ul li.on a {
+}
+
+nav ul li.on a {
     color: skyblue;
-  }
-  
-  /* メインコンテンツ */
-  main {
+}
+
+/* メインコンテンツ */
+main {
     width: 900px;
     margin: 20px auto;
     padding: 20px;
     background-color: black;
     font-family: sans-serif;
-  }
-  
-  /* 画像のスタイル */
-  .photo {
+}
+
+/* 画像 */
+.photo {
     width: 250px;
     height: auto;
-    margin: 10px;
+    margin: 20px;
     clip-path: circle(125px at 125px 125px);
-  }
-  
-  .photo:hover {
+}
+
+.photo:hover {
     transform: scale(1.1);
-  }
-  
-  /* フッター */
-  footer {
+}
+
+/* フッター */
+footer {
     width: 900px;
     margin: 20px auto;
     padding: 0;
     background-color: black;
-  }
-  
-  /* フォントサイズ */
-  .mz {
+}
+
+/* フォントサイズ */
+.mz {
     font-size: 18px;
-  }
-  
-  /* 画像ギャラリー */
-  main div {
+}
+
+/* 画像ギャラリー */
+main div {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
-  }
-  
-  /* 画像 */
-  .image {
-    width: 200px;
+}
+
+/* 画像 */
+.image {
+    width: 600px;
     height: 300px;
     margin: 8px;
-  }
-  
-  /* その他 */
-  li {
-    list-style: none;
-  }
-  
-  /* ヘッダー */
-  header {
-    display: flex;
-    align-items: center;
-  }
-  
-  /* 画像とテキストの間隔 */
-  .photo {
-    margin-right: 20px;
-  }
-  
-  /* タイトルのマージン */
-  .title {
-    margin: 0;
-  }
-  
-  /* 画像のクリップ */
-  figure {
-    text-align: center;
-    font-size: 13px;
-  }
+}
 
-  /* ヘッダー */
+/* その他 */
+li {
+    list-style: none;
+}
+
+/* ヘッダー */
 header {
     display: flex;
-    align-items: center;
-    justify-content: left; /* 水平方向に中央揃えにする */
-  }
-  
-  /* 画像 */
-  .photo {
+    align-items: left;
+    justify-content: left;
+}
+
+/* 画像 */
+.photo {
     width: 180px;
     height: auto;
     margin-right: 10px;
     clip-path: circle(90px at 90px 90px);
-  }
+}
+
+/* タイトル */
+.title {
+    margin: 10;
+    color: skyblue;
+}
+
+
   
-  /* タイトル */
-  .title {
-    margin: 0;
-    color: skyblue; /* テキストの色を指定 */
-  }
   
   
