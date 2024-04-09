@@ -1,82 +1,31 @@
-/* 全体のスタイル */
-* {
-    box-sizing: border-box;
-}
+
 
 /* リンク */
 a {
     color: skyblue;
-    text-decoration: none;
+    
 }
 
 /* ページ全体 */
 body {
-    margin: 80;
-    padding: 10;
-    background-color: black;
-}
-
-/* ヘッダーとナビゲーション */
-header,
-nav {
-    text-align: left;
-    background-color: black;
-}
-
-/* ナビゲーション */
-nav ul {
-    display: flex;
-    list-style: none;
-    padding: 10;
-}
-
-nav ul li {
-    flex: 1;
-    text-align: left;
+    margin: 15px;
     padding: 15px;
-}
-
-nav a {
-    color: skyblue;
-}
-
-nav ul li.on a {
-    color: skyblue;
+    background-color: black;
 }
 
 /* メインコンテンツ */
 main {
     width: 900px;
-    margin: 20px auto;
-    padding: 20px;
+    margin: 0px auto;
+    padding: 0px;
     background-color: black;
     font-family: sans-serif;
-}
-
-/* 画像 */
-.photo {
-    width: 250px;
-    height: auto;
-    margin: 20px;
-    clip-path: circle(125px at 125px 125px);
 }
 
 .photo:hover {
     transform: scale(1.1);
 }
 
-/* フッター */
-footer {
-    width: 900px;
-    margin: 20px auto;
-    padding: 0;
-    background-color: black;
-}
-
-/* フォントサイズ */
-.mz {
-    font-size: 18px;
-}
 
 /* 画像ギャラリー */
 main div {
@@ -87,9 +36,9 @@ main div {
 
 /* 画像 */
 .image {
-    width: 600px;
-    height: 300px;
-    margin: 8px;
+    width: 800px;
+    height: 500px;
+    margin: 15px;
 }
 
 /* その他 */
@@ -106,18 +55,84 @@ header {
 
 /* 画像 */
 .photo {
-    width: 180px;
+    width: 140px;
     height: auto;
-    margin-right: 10px;
-    clip-path: circle(90px at 90px 90px);
+    margin-right: 20px;
+    clip-path: circle(70px at 70px 70px);
 }
 
 /* タイトル */
 .title {
-    margin: 10;
+    margin: 10px;
     color: skyblue;
 }
 
+* {
+    margin:0; padding:0;
+  }
+  header {
+    width: 100%;
+    padding: 15px 0;
+    margin: 0 auto;
+    text-align: center;
+  }
+  header .headline{
+    font-size: 32px;
+  }
+  .nav-list {
+    text-align: center;
+    padding: 10px 0;
+    margin: 0 auto;
+  }
+  .nav-list-item {
+    list-style: none;
+    display: inline-block;
+    margin: 0 20px;
+  }
+
+.brand {
+  font-weight: bold;
+  font-size: 20px; }
+ 
+.site-header {
+  position: relative;
+  background-color: black; }
+ 
+.site-header__wrapper {
+  padding-top: 1rem;
+  padding-bottom: 1rem; }
+  @media (min-width: 600px) {
+    .site-header__wrapper {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding-top: 0;
+      padding-bottom: 0; } }
+@media (min-width: 600px) {
+  .nav__wrapper {
+    display: flex; } }
+ 
+@media (max-width: 599px) {
+  .nav__wrapper {
+    position: absolute;
+    top: 100%;
+    right: 0;
+    left: 0;
+    z-index: -1;
+    background-color: black;
+    visibility: hidden;
+    opacity: 0;
+    transform: translateY(-100%);
+    transition: transform 0.3s ease-out, opacity 0.3s ease-out; }
+    .nav__wrapper.active {
+      visibility: visible;
+      opacity: 1;
+      transform: translateY(0); } }
+ 
+.nav__item a {
+  display: block;
+  padding: 20px; }
+ 
 
   
   
