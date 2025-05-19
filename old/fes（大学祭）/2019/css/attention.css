@@ -1,0 +1,30 @@
+.container{
+    background-image: url("../img/background.png");
+}
+
+.content {
+    width: 780px;
+    height: 1330px;
+}
+
+.main h1{
+    font-size: 32px;
+    margin-top: 10px;
+    margin-left: 50px;
+}
+
+.main p{
+    font-size: 23px;
+    margin-left: 50px;
+}
+
+.main h4{
+	margin-left: 50px;
+	font-size:25px;
+}
+
+.footer{
+position: absolute;
+  bottom: -160px;
+  left: 0px;
+}

@@ -1,0 +1,156 @@
+@font-face {
+  font-family: "KachoPB";
+  src: url("../fonts/KachofugetsuPBold.ttf");
+}
+
+@font-face {
+  font-family: "KachoPBB";
+  src:url("../fonts/KachofugetsuPBBold.ttf");
+}
+body{
+  background: url("../image/wakutheme.png") no-repeat;
+}
+
+div#zentai{
+  list-style: none;
+}
+
+.theme{
+  margin:0px 15px 15px;
+  height: 125px;
+  width: 125px;
+  display: inline-block;
+  position:relative;
+}
+
+/* 光れウミホタルー説明*/
+a.ink{
+  background: url("../image/theme-waku125-umihotaru.png") no-repeat;
+  width: 125px;
+  height: 125px;
+  display: block;
+}
+
+a.ink:hover{
+  background: url("../image/theme-waku125-umihotaru-colored.png") no-repeat;
+  width: 125px;
+  height: 125px;
+}
+
+a.ink:active{
+  background: url("../image/theme-waku125-umihotaru-colored.png") no-repeat;
+  width: 125px;
+  height: 125px;
+}
+
+/* 電気で色付けカラーチタンー説明*/
+
+a.photochem{
+  background: url("../image/theme-waku125-titan.png") no-repeat;
+  width: 125px;
+  height: 125px;
+  display: block;
+}
+
+a.photochem:hover{
+  background: url("../image/theme-waku125-titan-colored.png") no-repeat;
+  width: 125px;
+  height: 125px;
+}
+
+a.photochem:active{
+  background: url("../image/theme-waku125-titan-colored.png") no-repeat;
+  width: 125px;
+  height: 125px;
+}
+
+/* 酸とアルミでキーホルダー制作ー説明*/
+
+a.limonene{
+  background: url("../image/theme-waku125-alumi.png") no-repeat;
+  width: 125px;
+  height: 125px;
+  display: block;
+}
+
+a.limonene:hover{
+  background: url("../image/theme-waku125-alumi-colored.png") no-repeat;
+  width: 125px;
+  height: 125px;
+}
+
+a.limonene:active{
+  background: url("../image/theme-waku125-alumi-colored.png") no-repeat;
+  width: 125px;
+  height: 125px;
+}
+
+
+/*カレーが赤色にカレールーの秘密 ー説明*/
+
+a.catalyst{
+  background: url("../image/theme-waku125-curry.png") no-repeat;
+  width: 125px;
+  height: 125px;
+  display: block;
+}
+
+a.catalyst:hover{
+  background: url("../image/theme-waku125-curry-colored.png") no-repeat;
+  width: 125px;
+  height: 125px;
+}
+
+a.catalyst:active{
+  background: url("../image/theme-waku125-curry-colored.png") no-repeat;
+  width: 125px;
+  height: 125px;
+}
+
+/* ヨウ素を使った化学マジックー説明*/
+
+a.colorful{
+  background: url("../image/theme-waku125-youso.png") no-repeat;
+  width: 125px;
+  height: 125px;
+  display: block;
+}
+
+a.colorful:hover{
+  background: url("../image/theme-waku125-youso-colored.png") no-repeat;
+  width: 125px;
+  height: 125px;
+}
+
+a.colorful:active{
+  background: url("../image/theme-waku125-youso-colored.png") no-repeat;
+  width: 125px;
+  height: 125px;
+}
+
+/* 光るスライムを作ろう！ー説明*/
+
+#slime{
+  background: url("../image/theme-waku125-slime.png") no-repeat;
+  width: 125px;
+  height: 125px;
+}
+
+#slime:hover{
+  background: url("../image/theme-waku125-slime-colored.png") no-repeat;
+  width: 125px;
+  height: 125px;
+}
+
+#slime:active{
+  background: url("../image/theme-waku125-slime-colored.png") no-repeat;
+  width: 125px;
+  height: 125px;
+}
+
+div#explanation{
+  background: url("../image/titan-explanation.png") ;
+  width: 900px;
+  height: 350px;
+  margin: 0px 30px 0px;
+}

@@ -1,0 +1,274 @@
+﻿div.theme_contentarea{
+	width: 980px;
+	
+	margin-left: auto;
+	margin-right: auto;
+	
+	}
+
+div.theme_head_title{
+	width: 900px;
+	height: 60px;
+
+	margin-left: auto;
+	margin-right: auto;
+}
+
+div.theme_ex_all_title{
+	width: 950px;
+	height: 100px;
+
+	margin-left: auto;
+	margin-right: auto;
+
+	border-width: 2px;
+	border-style: dashed;
+}
+
+div.theme_ex_title{
+	width: 227px;
+	height: 90px;
+
+	padding-left: 10px;
+	padding-top: 10px;
+
+	float: left;
+}
+
+p.ex_theme1{
+	width: 730px;
+	height: 20px;
+
+	border-width: 6px;
+	border-left-style: ridge;
+	border-bottom-style: ridge;
+	border-color: #70c070;
+
+	margin-left: auto;
+	margin-right: auto;
+
+	padding-left: 20px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+
+p.ex_theme2{
+	width: 730px;
+	height: 20px;
+
+	border-width: 6px;
+	border-left-style: ridge;
+	border-bottom-style: ridge;
+	border-color: #c0c070;
+
+	margin-left: auto;
+	margin-right: auto;
+
+	padding-left: 20px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+
+p.ex_theme3{
+	width: 730px;
+	height: 20px;
+
+	border-width: 6px;
+	border-left-style: ridge;
+	border-bottom-style: ridge;
+	border-color: #c070c0;
+
+	margin-left: auto;
+	margin-right: auto;
+
+	padding-left: 20px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+
+p.ex_theme4{
+	width: 730px;
+	height: 20px;
+
+	border-width: 6px;
+	border-left-style: ridge;
+	border-bottom-style: ridge;
+	border-color: #c07070;
+
+	margin-left: auto;
+	margin-right: auto;
+
+	padding-left: 20px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+
+p.ex_theme5{
+	width: 730px;
+	height: 20px;
+
+	border-width: 6px;
+	border-left-style: ridge;
+	border-bottom-style: ridge;
+	border-color: #70c0c0;
+
+	margin-left: auto;
+	margin-right: auto;
+
+	padding-left: 20px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+
+p.ex_theme6{
+	width: 730px;
+	height: 20px;
+
+	border-width: 6px;
+	border-left-style: ridge;
+	border-bottom-style: ridge;
+	border-color: #7070c0;
+
+	margin-left: auto;
+	margin-right: auto;
+
+	padding-left: 20px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+
+p.ex_theme7{
+	width: 730px;
+	height: 20px;
+
+	border-width: 6px;
+	border-left-style: ridge;
+	border-bottom-style: ridge;
+	border-color: #c0a0b0;
+
+	margin-left: auto;
+	margin-right: auto;
+
+	padding-left: 20px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+
+div.ex_theme_content1{
+	width: 704px;
+
+
+	border-radius: 20px;
+	border: solid 2px #70c070;
+    background-color: rgba(0,90,0,0.20);  
+
+	margin-left: auto;
+	margin-right: auto;
+
+	padding-left: 25px;
+	padding-right: 25px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+div.ex_theme_content2{
+	width: 704px;
+
+
+	border-radius: 20px;
+	border: solid 2px #c0c070;
+    background-color: rgba(90,90,0,0.20);  
+
+	margin-left: auto;
+	margin-right: auto;
+
+	padding-left: 25px;
+	padding-right: 25px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+div.ex_theme_content3{
+	width: 704px;
+
+
+	border-radius: 20px;
+	border: solid 2px #c070c0;
+    background-color: rgba(90,0,90,0.20);  
+
+	margin-left: auto;
+	margin-right: auto;
+
+	padding-left: 25px;
+	padding-right: 25px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+div.ex_theme_content4{
+	width: 704px;
+
+
+	border-radius: 20px;
+	border: solid 2px #c07070;
+    background-color: rgba(90,0,0,0.20);  
+
+	margin-left: auto;
+	margin-right: auto;
+
+	padding-left: 25px;
+	padding-right: 25px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+div.ex_theme_content5{
+	width: 704px;
+
+
+	border-radius: 20px;
+	border: solid 2px #70c0c0;
+    background-color: rgba(0,90,90,0.20);  
+
+	margin-left: auto;
+	margin-right: auto;
+
+	padding-left: 25px;
+	padding-right: 25px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+div.ex_theme_content6{
+	width: 704px;
+
+
+	border-radius: 20px;
+	border: solid 2px #7070c0;
+    background-color: rgba(0,0,90,0.20);  
+
+	margin-left: auto;
+	margin-right: auto;
+
+	padding-left: 25px;
+	padding-right: 25px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+div.ex_theme_content7{
+	width: 704px;
+
+
+	border-radius: 20px;
+	border: solid 2px #c0a0b0;
+    background-color: rgba(90,30,60,0.20);  
+
+	margin-left: auto;
+	margin-right: auto;
+
+	padding-left: 25px;
+	padding-right: 25px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}

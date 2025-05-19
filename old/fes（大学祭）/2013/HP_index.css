@@ -1,0 +1,49 @@
+﻿body
+{
+	background-image: url(img/HP_bk.jpg);
+}
+
+div.index_body{
+	width: 980px;
+	height: 76px;
+	
+	margin-top: 0px;
+	margin-left: auto;
+	margin-right: auto;
+	
+	background-image: url("img/index_bar.png");
+}
+
+div.index_title{
+	width: 980px;
+	height: 60px;
+	
+	margin-top: 0px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+div.index_main{
+	width: 130px;
+	height: 60px;
+	
+	margin-top: 8px;
+	margin-left: 5px;
+	margin-right: 5px;
+
+	float: left;
+}
+
+img.index_top{		border-style: none;	}
+img.index_home{		border-style: none;	}
+img.index_introduction{	border-style: none;	}
+img.index_theme{		border-style: none;	}
+img.index_access{	border-style: none;	}
+img.index_link{	border-style: none;	}
+img.index_blog{	border-style: none;	}
+img.index_mail{	border-style: none;	}
+
+.index a:link{		text-decoration:none;	}
+.index a:visited{	text-decoration:none;	}
+.index a:hover{		text-decoration:none;	}
+.index a:active{	text-decoration:none;	}

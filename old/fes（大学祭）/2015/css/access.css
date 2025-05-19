@@ -1,0 +1,39 @@
+.contentbox {
+    margin-left: auto;
+    margin-right: auto;
+    width:980px;
+    height: 580px;
+    border: 3px #3336ff solid;
+    border-radius: 20px;
+}
+
+.contentbox p, a{
+    font-size: 18px;
+}
+
+.contentbox h1 {
+    padding-left: 10px;
+}
+
+.box1 {
+    width: 450px;
+    padding: 10px 0px 10px 20px;
+}
+
+.box2 {
+    width: 450px;
+    padding: 10px 0px 10px 20px;
+}
+
+.box3 {
+    position: relative;
+    width: 500px;
+    bottom: 235px;
+    left: 400px;
+}
+
+.box3 p:nth-of-type(2) {
+    color: red;
+    margin: 5px;
+}
+

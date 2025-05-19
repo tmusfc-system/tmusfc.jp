@@ -1,0 +1,105 @@
+﻿p.ex_theme{
+	padding-left: 15px;
+
+	border-left-style: ridge;
+	border-left-width: 8px;
+	border-left-color: #00ffc0;
+	border-bottom-style: ridge;
+	border-bottom-width: 3px;
+	border-bottom-color: #00ffc0;
+}
+
+p.ex_theme_content{
+	padding-left: 30px;
+}
+
+div.ex_theme_content_1{
+	width: 680px;
+	height: 210px;
+	
+	margin-top: -20px;
+	padding-top: 10px;
+	padding-right: 20px;
+	
+	border-radius: 20px;
+	
+	background: #f0f0ff;
+}
+
+div.ex_theme_content_2{
+	width: 680px;
+	height: 140px;
+	
+	margin-top: -20px;
+	padding-top: 10px;
+	padding-right: 20px;
+	
+	border-radius: 20px;
+	
+	background: #f0f0ff;
+}
+
+div.ex_theme_content_3{
+	width: 680px;
+	height: 140px;
+	
+	margin-top: -20px;
+	padding-top: 10px;
+	padding-right: 20px;
+	
+	border-radius: 20px;
+	
+	background: #f0f0ff;
+}
+
+div.ex_theme_content_4{
+	width: 680px;
+	height: 160px;
+	
+	margin-top: -20px;
+	padding-top: 10px;
+	padding-right: 20px;
+	
+	border-radius: 20px;
+	
+	background: #f0f0ff;
+}
+
+div.ex_theme_content_5{
+	width: 680px;
+	height: 160px;
+	
+	margin-top: -20px;
+	padding-top: 10px;
+	padding-right: 20px;
+	
+	border-radius: 20px;
+	
+	background: #f0f0ff;
+}
+
+div.ex_theme_content_6{
+	width: 680px;
+	height: 170px;
+	
+	margin-top: -20px;
+	padding-top: 10px;
+	padding-right: 20px;
+	
+	border-radius: 20px;
+	
+	background: #f0f0ff;
+}
+
+div.ex_theme_content_7{
+	width: 680px;
+	height: 120px;
+	
+	margin-top: -20px;
+	padding-top: 10px;
+	padding-right: 20px;
+	
+	border-radius: 20px;
+	
+	background: #f0f0ff;
+}

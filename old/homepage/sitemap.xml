@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+
+<!--  created with free sitemap generation system www.sitemapxml.jp  --> 
+<url>
+  <loc>http://tmusfc.jp/</loc>
+  <priority>1.0</priority>
+  <lastmod>2015-04-25T12:13:59+09:00</lastmod>
+</url>
+<url>
+  <loc>http://tmusfc.jp/pages/kanyu.html</loc>
+  <priority>0.8</priority>
+  <lastmod>2015-04-25T12:18:19+09:00</lastmod>
+</url>
+<url>
+  <loc>http://tmusfc.jp/index.html</loc>
+  <priority>0.8</priority>
+  <lastmod>2015-04-25T12:13:59+09:00</lastmod>
+</url>
+<url>
+  <loc>http://tmusfc.jp/pages/page11.html</loc>
+  <priority>0.8</priority>
+  <lastmod>2015-04-25T12:10:09+09:00</lastmod>
+</url>
+<url>
+  <loc>http://tmusfc.jp/pages/page12.html</loc>
+  <priority>0.8</priority>
+  <lastmod>2015-04-25T12:10:12+09:00</lastmod>
+</url>
+<url>
+  <loc>http://tmusfc.jp/pages/pastmember.html</loc>
+  <priority>0.8</priority>
+  <lastmod>2015-04-25T12:10:32+09:00</lastmod>
+</url>
+<url>
+  <loc>http://tmusfc.jp/pages/page21.html</loc>
+  <priority>0.8</priority>
+  <lastmod>2015-04-25T12:10:13+09:00</lastmod>
+</url>
+<url>
+  <loc>http://tmusfc.jp/pages/link.html</loc>
+  <priority>0.8</priority>
+  <lastmod>2015-04-25T12:10:09+09:00</lastmod>
+</url>
+<url>
+  <loc>http://tmusfc.jp/pages/sitemap.html</loc>
+  <priority>0.8</priority>
+  <lastmod>2015-04-25T12:10:51+09:00</lastmod>
+</url>
+<url>
+  <loc>http://tmusfc.jp/pages/activity.html</loc>
+  <priority>0.7</priority>
+  <lastmod>2015-04-25T12:10:07+09:00</lastmod>
+</url>
+
+</urlset>

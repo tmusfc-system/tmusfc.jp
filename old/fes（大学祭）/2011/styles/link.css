@@ -1,0 +1,25 @@
+﻿a{/*リンクされた文字*/
+    color:#000000;
+    font-style:normal;
+	text-decoration: none;
+}
+a:link {/*未訪問のリンク*/
+    color:#000000;
+    font-style:normal;
+    text-decoration:none;
+}
+a:visited {/*訪問後のリンク*/
+    color:#000000;
+    text-decoration:none;
+}
+
+a.linkmenu:hover{
+position:relative;
+top:4px;
+}
+
+
+.link-move a:hover {
+ position: relative;
+ top: 5px;
+}

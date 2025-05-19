@@ -1,0 +1,43 @@
+@font-face {
+  font-family: "KachoPB";
+  src: url("../fonts/KachofugetsuPBold.ttf");
+}
+
+@font-face {
+  font-family: "KachoPBB";
+  src:url("../fonts/KachofugetsuPBBold.ttf");
+}
+
+body{
+  background: url("../image/wakuaccess2.png") no-repeat;
+  background-position: center;
+  font-family: KachoPB;
+}
+
+h1 {
+  font-size: 28pt;
+  width: 350px;
+}
+
+div.detail{
+  text-align: center;
+  width: 350px;
+  height:auto;
+}
+
+div.photo{
+  float: right;
+  width: 550px;
+  top: 0px;
+}
+
+h2.chuui {
+  font-size: 16pt;
+  font-family: KachoPBB;
+  color: red;
+}
+
+h2.camap{
+  text-align: left;
+  width: 550px;
+}

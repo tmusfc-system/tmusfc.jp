@@ -1,0 +1,5 @@
+AuthUserFile /home/users/1/mods.jp-tmu-sfc/web/pass/.htpasswd
+AuthGroupFile /dev/null
+AuthName "test"
+AuthType Basic
+require valid-user

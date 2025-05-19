@@ -1,0 +1,288 @@
+﻿div.aid_group{
+	width: 980px;
+	height: 40px;
+	
+	margin-top: 0px;
+	margin-left: auto;
+	margin-right: auto;
+	
+	/*background: #ff00cc;*/
+}
+
+div.mobile_link{
+	width: 130px;
+	height: 40px;
+	
+	margin-top: -55px;
+	margin-left: auto;
+	margin-right: auto;
+	
+	padding-left: 850px;
+	
+	/*background: #ff0000;*/
+}
+
+div.title_img{
+	width: 890px;
+	height: 100px;
+	
+	margin-top: 0px;
+	margin-left: auto;
+	margin-right: auto;
+	
+	padding-left: 90px;
+	
+	/*background: #ff00cc;*/
+}
+
+div.icon_area1{
+	width: 980px;
+	height: 220px;
+	
+	margin-top: 50px;
+	margin-left: auto;
+	margin-right: auto;
+	
+	/*background: #00fccc;*/
+}
+
+div.icon_area2{
+	width: 980px;
+	height: 180px;
+	
+	margin-top: 0px;
+	margin-left: auto;
+	margin-right: auto;
+	
+	/*background: #ccfccc;*/
+}
+
+div.icon_context_area1{
+	width: 160px;
+	height: 24px;
+
+	float: left;
+
+	margin-left: 68px;
+	
+	/*background: #ff77ff;*/
+}
+
+div.icon_context_area2-1{
+	width: 160px;
+	height: 24px;
+
+	float: right;
+
+	margin-right: 182px;
+	
+	/*background: #ff77ff;*/
+}
+
+div.icon_context_area2-2{
+	width: 160px;
+	height: 24px;
+
+	float: right;
+
+	margin-right: 68px;
+	
+	/*background: #ff77ff;*/
+}
+
+div.icon_home{
+	width: 160px;
+	height: 160px;
+	
+	float: left;
+	
+	margin-top: 0px;
+	margin-left: 68px;
+
+	/*background: #fffc0c;*/
+}
+
+div.icon_introducion{
+	width: 160px;
+	height: 160px;
+	
+	float: left;
+	
+	margin-top: 0px;
+	margin-left: 68px;
+
+	/*background: #ff5c0c;*/
+}
+
+div.icon_theme{
+	width: 160px;
+	height: 160px;
+	
+	float: left;
+	
+	margin-top: 0px;
+	margin-left: 68px;
+
+	/*background: #2ffc0c;*/
+}
+
+div.icon_access{
+	width: 160px;
+	height: 160px;
+	
+	float: left;
+	
+	margin-top: 0px;
+	margin-left: 68px;
+
+	/*background: #7fdc0c;*/
+}
+
+
+
+div.icon_mail{
+	width: 160px;
+	height: 160px;
+	
+	float: right;
+	
+	margin-top: 0px;
+	margin-right: 182px;
+
+	/*background: #1fdcfc;*/
+}
+
+div.icon_blog{
+	width: 160px;
+	height: 160px;
+	
+	float: right;
+	
+	margin-top: 0px;
+	margin-right: 68px;
+
+	/*background: #7fdc0c;*/
+}
+
+div.icon_link{
+	width: 160px;
+	height: 160px;
+	
+	float: right;
+	
+	margin-top: 0px;
+	margin-right: 68px;
+
+	/*background: #2ffc0c;*/
+}
+
+div.icon_counter{
+	width: 182px;
+	height: 100px;
+	
+	float: right;
+	
+	margin-top: 40px;
+	margin-right: 0px;
+
+	/*background: #ff5c0c;	*/
+}
+
+div.icon_counter_main{
+	width: 90px;
+	height: 20px;
+	
+	margin-top: 124px;
+	margin-left:70px;
+	
+	/*background: #00cc00;*/
+}
+
+div.top_information{
+	width: 980px;
+	height: 120px;
+	
+	margin-top: 90px;
+	margin-left: auto;
+	margin-right: auto;
+	
+	/*background: #0000dd;*/
+}
+
+div.top_information_content{
+	width: 480px;
+	height: 200px;
+	
+	float: left;
+	
+	margin-top: -20px;
+	margin-left: 250px;
+	
+	/*background: #cc00dd;*/
+}
+
+span.top_information_content_context{
+	font-size: 16pt;
+	
+}
+
+span.top_information_content_head{
+	width: 480px;
+	height: 48px;
+	
+	margin-left: 90px;
+}
+
+span.top_information_content_context{
+	width: 480px;
+	height: 16px;
+
+	margin-left: 120px;
+
+	/*background: #dd0ddd;*/
+}
+
+div.top_mobilephonepage{
+	width: 170px;
+	height: 140px;
+	
+	float: left;
+	
+	margin-top:50px;
+	margin-left:80px;
+	
+	/*background: #00ffff;*/
+}
+
+div.top_bottom_img{
+	width: 982px;
+	height: 150px;
+	
+	position: relative;
+	bottom: 0px;
+		
+	margin-top: 0px;
+	margin-bottom: 0px;
+	margin-left: auto;
+	margin-right: auto;
+	
+	
+	/*background: #f0f020;*/
+}
+
+div.top_bottom_theme{
+	width: 980px;
+	height: 18px;
+	
+	margin-top: -18px;
+	margin-left:auto;
+	margin-right: auto;
+	
+	background: #30ffff;
+}
+
+img.icon_img{
+	width: 160px;
+	height: 160px;
+	border-style: none;
+}

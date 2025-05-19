@@ -1,0 +1,153 @@
+body{
+    font-family: Arial, Verdan;
+    background: url("../img/background/bg1.png"), url("../img/background/bg2.png");
+    background-repeat: no-repeat, no-repeat;
+    background-position: 100% 30% , left bottom;
+    height: auto;
+    background-attachment:fixed ;
+    background-color: #f0f8ff;
+}
+
+
+p{
+    margin: 0px;
+    line-height: 1.6;
+}
+
+#container{
+    width: 800px;
+    height:100%;
+    height:auto;
+    position:relative;
+    margin: 0px auto;
+    overflow: hidden;
+
+}
+
+/*header*/
+
+#header a{
+  color: #1111cc;
+  text-decoration: none;
+}
+
+.header-img{
+    text-align: center;
+}
+
+.menu{
+    margin-bottom: 45px;
+    list-style: none;
+    overflow: hidden;
+    padding: 0;
+}
+
+.menu > li{
+    text-align: center;
+    float: left;
+    width: 120px;
+    margin: 3px;
+}
+
+
+
+ /*contents*/
+
+.contents{
+    float: left;
+    width: 700px;
+}
+
+.content{
+    margin-bottom: 30px;
+}
+
+.post-header{
+    position: relative;
+    bottom: 15px;
+    margin-bottom: 15px;
+}
+
+.post-header h1{
+    font-weight: bold;
+}
+
+.content-menu{
+    background: rgba(245,245,245,0.7);
+    border: ridge 1px rgba(128,128,128,1);
+    margin-bottom: 30px;
+    width: 700px;
+    list-style: none;
+    overflow: hidden;
+    padding: 20px;
+    position: relative;
+    left: 30px;
+}
+
+.content-menu > li{
+  text-align: center;
+  float: left;
+  width: 180px;
+  margin: 3px 20px;
+}
+
+.content-menu a{
+   text-decoration: none;
+}
+
+.content-menu a:link {/*未訪問のリンク*/
+    color:#1111cc;
+    font-style:normal;
+}
+.content-menu a:visited {/*訪問後のリンク*/
+    color:#934C7B;
+}
+.content-menu a:hover {/*マウスをのせたとき*/
+    color:#1111cc;
+    font-style:normal;
+    text-decoration: underline;
+}
+
+.content-box{
+    text-align: left;
+    background: rgba(245,245,245,0.7);
+    width:700px;
+    height: auto;
+    padding: 20px;
+    border: ridge 1px rgba(128,128,128,0.1);
+    position: relative;
+    left: 30px;
+    bottom: 15px;
+    
+}
+
+.content-box p{
+    position: relative;
+    text-indent: 1em;
+    font-size: 18px;
+}
+
+.content-box h2{
+    position: relative;
+    text-indent: 1em;
+    padding: 5px;
+    background: url("../img/title/under.png");
+    background-repeat: no-repeat;
+    background-position: 0px 12px;
+}
+
+.content-box img{
+    float: right;
+    margin-left: 1em;
+}
+#footer{
+    position: absolute;
+    width: 100%;
+    bottom: 0;
+    text-align: center;
+    left: -20px;
+    font-size: 12px;
+    color: black;
+}
+    position: relative;
+

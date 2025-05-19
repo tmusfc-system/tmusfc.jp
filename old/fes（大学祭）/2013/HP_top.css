@@ -1,0 +1,35 @@
+﻿div.top_aid{
+	width: 980px;
+	height: 60px;
+
+	margin-left: auto;
+	margin-right: auto;
+}
+
+
+div.top_index_img{
+	width: 980px;
+	height: 646px;
+
+	margin-left: auto;
+	margin-right: auto;
+}
+
+div.top_information{
+	width: 980px;
+
+	margin-left: auto;
+	margin-right: auto;
+}
+
+div.top_information_time_place{
+	width: 350px;
+
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.index a:link{		text-decoration:none;	}
+.index a:visited{	text-decoration:none;	}
+.index a:hover{		text-decoration:none;	}
+.index a:active{	text-decoration:none;	}

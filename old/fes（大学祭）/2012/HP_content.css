@@ -1,0 +1,145 @@
+﻿div.content_area{
+	width: 980px;
+	
+	margin-top: 40px;
+	margin-left: auto;
+	margin-right: auto;
+	
+	/*background: #ff0000;*/
+}
+
+div.content_area_access{
+	width: 980px;
+	height: 880px;
+	
+	margin-top: 40px;
+	margin-left: auto;
+	margin-right: auto;
+	
+	/*background: #ff00ff;*/
+}
+
+div.content_area_introduction{
+	width: 980px;
+	height: 380px;
+	
+	margin-top: 40px;
+	margin-left: auto;
+	margin-right: auto;
+	
+	/*background: #ff00ff;*/
+}
+
+div.content_area_theme_index{
+	width: 944px;
+	height: 90px;
+	
+	margin-top: 10px;
+	margin-left: auto;
+	margin-right: auto;
+	
+	line-height: 2;
+	
+	
+	border-style: dashed;
+	border-width: 2px;
+	border-color: #7fff00;
+	
+	/*background: #ffc0df;*/
+}
+
+div.content_area_theme_index_part{
+	width: 236px;
+	height: 90px;
+	
+	float: left;
+	
+	/*background: #fff099;*/
+}
+
+div.content_theme{
+	width: 700px;
+	height: 1680px;
+	
+	margin-left: auto;
+	margin-right: auto;
+	
+	/*background: #ff00ff;*/
+}
+
+div.content_area_theme_1{
+	width: 900px;
+	height: 25px;
+	
+	margin-top: 20px;
+	margin-left: auto;
+	margin-right: auto;
+	
+	/*background: #ff00ff;*/
+}
+
+div.content_area_link{
+	width: 980px;
+	height: 380px;
+	
+	margin-top: 40px;
+	margin-left: auto;
+	margin-right: auto;
+	
+	/*background: #ff00ff;*/
+}
+
+div.content_area_mail{
+	width: 980px;
+	height: 380px;
+	
+	margin-top: 40px;
+	margin-left: auto;
+	margin-right: auto;
+	
+	/*background: #ff00ff;*/
+}
+
+
+
+div.content_left{
+	width: 600px;
+
+	float: left;
+	
+	padding-left: 60px;
+	padding-right: 60px;
+	
+	/*background: #d2f6f8;*/
+}
+
+div.content_right{
+	width: 241px;
+	
+	float: left;
+	
+	line-height: 2;
+	
+	padding-left: 15px;
+	
+	border-style: dashed;
+	border-width: 2px;
+	border-color: #7fff00;
+		
+	/*background: #f5f555;*/
+}
+
+div.bottom_image{
+	width: 980px;
+	height: 150px;
+	
+	position: relative;
+	bottom: 0px;
+	
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 0px;
+	
+	/*background: #ff0000;*/
+	background-image: url("img/background_img_bottom.png");
+}

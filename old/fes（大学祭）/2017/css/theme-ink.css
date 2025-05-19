@@ -1,0 +1,151 @@
+@font-face {
+  font-family: "KachoPB";
+  src: url("../fonts/KachofugetsuPBold.ttf");
+}
+
+@font-face {
+  font-family: "KachoPBB";
+  src:url("../fonts/KachofugetsuPBBold.ttf");
+}
+body{
+  background: url("../image/wakutheme.png") no-repeat;
+}
+
+div#zentai{
+  list-style: none;
+}
+
+.theme{
+  margin:0px 15px 15px;
+  height: 125px;
+  width: 125px;
+  display: inline-block;
+  position:relative;
+}
+
+/* 隠れたインクを暴くー説明*/
+#ink{
+  background: url("../image/theme-waku125-ink.png") no-repeat;
+  width: 125px;
+  height: 125px;
+}
+
+#ink:hover{
+  background: url("../image/theme-waku125-ink-colored.png") no-repeat;
+  width: 125px;
+  height: 125px;
+}
+
+#ink:active{
+  background: url("../image/theme-waku125-ink-colored.png") no-repeat;
+  width: 125px;
+  height: 125px;
+}
+
+/* 色で分かる！光の力ー説明*/
+
+#photochem{
+  background: url("../image/theme-waku125-photochem.png") no-repeat;
+  width: 125px;
+  height: 125px;
+}
+
+#photochem:hover{
+  background: url("../image/theme-waku125-photochem-colored.png") no-repeat;
+  width: 125px;
+  height: 125px;
+}
+
+#photochem:active{
+  background: url("../image/theme-waku125-photochem-colored.png") no-repeat;
+  width: 125px;
+  height: 125px;
+}
+
+/* 果汁パワーでスタンプを作ろう！ー説明*/
+
+#limonene{
+  background: url("../image/theme-waku125-limonene.png") no-repeat;
+  width: 125px;
+  height: 125px;
+}
+
+#limonene:hover{
+  background: url("../image/theme-waku125-limonene-colored.png") no-repeat;
+  width: 125px;
+  height: 125px;
+}
+
+#limonene:active{
+  background: url("../image/theme-waku125-limonene-colored.png") no-repeat;
+  width: 125px;
+  height: 125px;
+}
+
+
+/* 水と油の間であっちこっちー説明*/
+
+#catalyst{
+  background: url("../image/theme-waku125-catalyst.png") no-repeat;
+  width: 125px;
+  height: 125px;
+}
+
+#catalyst:hover{
+  background: url("../image/theme-waku125-catalyst-colored.png") no-repeat;
+  width: 125px;
+  height: 125px;
+}
+
+#catalyst:active{
+  background: url("../image/theme-waku125-catalyst-colored.png") no-repeat;
+  width: 125px;
+  height: 125px;
+}
+
+/* カラフルウォーターー説明*/
+
+#colorful{
+  background: url("../image/theme-waku125-colorful.png") no-repeat;
+  width: 125px;
+  height: 125px;
+}
+
+#colorful:hover{
+  background: url("../image/theme-waku125-colorful-colored.png") no-repeat;
+  width: 125px;
+  height: 125px;
+}
+
+#colorful:active{
+  background: url("../image/theme-waku125-colorful-colored.png") no-repeat;
+  width: 125px;
+  height: 125px;
+}
+
+/* 光るスライムを作ろう！ー説明*/
+
+#slime{
+  background: url("../image/theme-waku125-slime.png") no-repeat;
+  width: 125px;
+  height: 125px;
+}
+
+#slime:hover{
+  background: url("../image/theme-waku125-slime-colored.png") no-repeat;
+  width: 125px;
+  height: 125px;
+}
+
+#slime:active{
+  background: url("../image/theme-waku125-slime-colored.png") no-repeat;
+  width: 125px;
+  height: 125px;
+}
+
+div#explanation{
+  background: url("../image/ink-explanation.png") ;
+  width: 900px;
+  height: 350px;
+  margin: 0px 30px 0px;
+}

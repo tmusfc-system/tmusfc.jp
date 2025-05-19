@@ -1,0 +1,15 @@
+.container{
+    background-image: url("../img/attention.png");
+}
+
+.main h1{
+    font-size: 32px;
+    margin-top: 50px;
+    margin-left: 50px;
+}
+
+.main p{
+    font-size: 18px;
+    margin-left: 50px;
+}
+

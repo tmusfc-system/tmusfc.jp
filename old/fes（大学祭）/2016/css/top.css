@@ -1,0 +1,37 @@
+.container{
+    background-image: url("../img/top.png");
+}
+
+.main h1{
+    text-align: center;
+    margin-top: 60px;
+    margin-right: 30px;
+    font-size: 72px;
+}
+
+.main h2{
+    text-align: right;
+    margin-right: 270px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-size: 35px;
+}
+
+.main h3{
+    text-align: left;
+    margin-left: 590px; 
+    margin-top: 0;
+    margin-bottom: 10px;
+    font-size: 30px;
+}
+
+.main p{
+    margin-left: 550px;
+    font-size: 18px;
+}
+
+.main a{
+    margin-left: 550px;
+    font-size: 18px;
+    color: #996633; 
+}

@@ -1,0 +1,42 @@
+<!-- start Simple Custom CSS and JS -->
+<style type="text/css">
+/* ここにCSSコードを追加
+
+例:
+.example {
+    color: red;
+}
+
+CSS の知識に磨きをかけるためにご覧ください。
+http://www.w3schools.com/css/css_syntax.asp
+
+コメント終わり */ 
+
+.am-confirmation-booking-details div:first-child {
+  display: none !important; /* 当院では、従業員や担当者は明示する必要はないので非表示に */
+}
+span.el-radio-button__inner { /* 日付をクリックすると表示される時間帯を見やすく */
+  font-size: 1.3rem !important;
+  font-weight: 600 !important;
+  text-align: center !important;
+  padding: 0 !important;
+  display: none !important;
+}
+
+span.el-radio-button__inner:affter {
+  content:"9:00～9:30";
+  font-size: 1.3rem !important;
+  font-weight: 600 !important;
+  text-align: center !important;
+  padding: 0 !important;
+}
+#am-continue-button span { /* 「続行」ボタンの文字を大きく */
+  font-size: 1.4rem;
+}
+.am-success-payment h4 { /* 予約完了時の「おめでとうございます」は不要 */
+  display: none !important;
+}
+#am-add-to-calendar .am-svg-wrapper svg {
+	display: none !important; /* 画像もあえてなくてよいですね */
+}</style>
+<!-- end Simple Custom CSS and JS -->

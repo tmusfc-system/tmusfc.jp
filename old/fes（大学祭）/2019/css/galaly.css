@@ -1,0 +1,24 @@
+.container{
+    background-image: url("../img/background.png");
+    background-repeat: no-repeat;
+}
+
+.content {
+    width: 780px;
+    height: 1650px;
+    margin-top: 0px;
+    margin-left: 100px;
+}
+
+.main {
+    height: 100%;
+	font-size: 25px;
+
+}
+
+.footer{
+    position: absolute;
+  bottom: 0px;
+  left: 0px;
+}
+

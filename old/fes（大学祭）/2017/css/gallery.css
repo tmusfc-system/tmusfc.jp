@@ -1,0 +1,56 @@
+@font-face {
+  font-family: "KachoPB";
+  src: url("../fonts/KachofugetsuPBold.ttf");
+}
+
+@font-face {
+  font-family: "KachoPBB";
+  src:url("../fonts/KachofugetsuPBBold.ttf");
+}
+
+body{
+  background: url("../image/wakugallery2000x1000.png") no-repeat;
+  background-position: center;
+}
+
+h1{
+  font-family: KachoPB;
+  font-size: 28pt;
+  text-align: center;
+}
+
+h2.title{
+  font-family: KachoPB;
+  font-size: 20pt;
+  text-align: center;
+}
+
+html,body{
+  height: 2000px;
+}
+
+div#ink{
+  margin-left: 10px;
+}
+
+div#photochem{
+  margin-left: 40px;
+}
+
+div#limonene{
+  margin-left: 10px;
+}
+
+div#catalyst{
+  margin-left: 350px;
+}
+
+div#colorful{
+  margin-left: 40px;
+}
+
+div#slime{
+  margin-left: 250px;
+}
+
+

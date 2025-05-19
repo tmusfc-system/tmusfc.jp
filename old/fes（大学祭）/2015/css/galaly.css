@@ -1,0 +1,8 @@
+.main {
+    height: 1800px;
+}
+
+.slime, .oyu, .ekisyou, .madora, .spike, .senzai{
+    height: 30%;
+    width: 30%;
+}

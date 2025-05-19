@@ -1,0 +1,123 @@
+body{
+    font-family: Arial, Verdan;
+    background: url("../img/background/bg1.png"), url("../img/background/bg2.png");
+    background-repeat: no-repeat, no-repeat;
+    background-position: 100% 30% , left bottom;
+    height: auto;
+    background-attachment:fixed ;
+    background-color: #f0f8ff;
+}
+
+a{
+   color:#1111cc;
+   text-decoration: none;
+}
+
+p{
+    margin: 0px;
+    line-height: 1.6;
+}
+
+#container{
+    width: 800px;
+    height: 100%;
+    height:auto;
+    position:relative;
+    margin: 0px auto;
+    overflow: hidden;
+
+}
+
+/*header*/
+
+.header-img{
+    text-align: center;
+}
+
+.menu{
+    margin-bottom: 45px;
+    list-style: none;
+    overflow: hidden;
+    padding: 0;
+}
+
+.menu > li{
+    text-align: center;
+    float: left;
+    width: 120px;
+    margin: 3px;
+}
+
+
+
+ /*contents*/
+
+.contents{
+    float: left;
+    width: 600px;
+}
+
+.content{
+    margin-bottom: 30px;
+}
+
+.post-header{
+    position:relative;
+    bottom: 15px;
+    margin-bottom: 15px;
+}
+
+.post-header h1{
+    font-weight: bold;
+}
+
+.content-box{
+    position: relative;
+    text-align: left;
+    background: rgba(245,245,245,0.8);
+    width:700px;
+    height:600px;
+    padding: 15px;
+    border: ridge 1px rgba(128,128,128,0.1);
+    left: 30px;
+    bottom: 15px;
+    
+}
+
+.content-box p{
+    font-size:18px;
+    text-indent: 1em;
+    position: relative;
+    top: 10px;
+    
+}
+
+.content-box h3{
+    position: relative;
+    top: 10px;
+}
+
+.handbook{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px 0px 0px 0px;
+}
+
+.img-name p{
+
+    display:block;
+    line-height: 0;
+    text-align:center;
+    font-size: 15px;
+}
+
+#footer{
+    position: absolute;
+    width: 100%;
+    bottom: 0;
+    text-align: center;
+    left: -20px;
+    font-size: 12px;
+    color: black;
+}

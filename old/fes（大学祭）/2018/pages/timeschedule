@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta content="体験！化学実験2018,化学実験,化学,実験,無料,体験！化学実験,首都大学東京,首都大,体験型イベント" name="keyword" />
+    <meta content="体験！化学実験は首都大学東京の化学好きな学生たちが運営する体験型の化学実験イベントです！" name="description" />
+    <title>体験！化学実験2018-体験！化学実験実行委員会</title>
+    <link href="../css/nomalize.css" rel="stylesheet" />
+    <link href="../css/styleformenu.css" rel="stylesheet" />
+    <link href="../css/index-seiri.css" rel="stylesheet" />
+  </head>
+
+  <body>
+    <div class="container">
+      <div class="header">
+        <div class="menu"></div>
+        <ul>
+          <li class="list1">
+            <div id="top">
+              <a href="../pages/index.html"></a>
+            </div>
+          </li>
+          <li class="list2">
+            <div id="about">
+              <a href="../pages/about.html"></a>
+            </div>
+          </li>
+          <li class="list3">
+            <div id="theme">
+              <a href="../pages/theme.html"></a>
+            </div>
+          </li>
+          <li class="list4">
+            <div id="access">
+              <a href="../pages/access.html"></a>
+            </div>
+          </li>
+          <li class="list5">
+            <div id="gallery">
+              <a href="../pages/gallery.html"></a>
+            </div>
+          </li>
+        </ul>
+      </div>
+      <section class="main">
+        <h1 class="daimei">
+          体験！化学実験2018
+        </h1>
+        <h2>
+          整理券に関するお知らせ
+        </h2>
+        <p class="explanation">
+          例年、混み合う見込みのある実験のみ整理券を用意しております。
+        </p>
+        <p class="explanation">
+         「光る！スライムを作ろう‼」と「光れ！ウミホタル」の整理券を配布予定です。
+        </p>
+        <p class="explanation">
+      配布時間は<br />
+　　<u>11月2日は12:50から先着順</u>で、受付にて一斉配布致します。<br />
+　　<u>11月3日は10:50から先着順</u>で、受付にて一斉配布致します。<br />
+　　受付は<u>8号館3階</u>に設置しています。南門では配布致しません。
+        </p>
+        <p class="explanation">
+          ご協力よろしくお願い致します。
+        </p>
+       　　 
+<p class="explanation">
+        タイムスケジュール
+        </p>
+<div class="First">
+<br />
+「光る！スライムを作ろう‼」各回<u>30人</u>程度<br />
+11月2日<br />
+13:00～13:30<br />
+13:30～14:00<br />
+14:00～14:30<br />
+------<br />
+15:00～15:30<br />
+15:30～16:00<br />
+16:00～16:30<br />
+------<br />
+<br />
+11月3日<br />
+11:00～11:30<br />
+11:30～12:00<br />
+12:00～12:30<br />
+12:30～13:00<br />
+13:00～13:30<br />
+------<br />
+14:00～14:30<br />
+14:30～15:00<br />
+15:00～15:30<br />
+15:30～16:00<br />
+16:00～16:30<br />
+------<br />
+<br />
+  </div>
+  <div class="Second">
+<br />
+「光れ！ウミホタル」各回<u>3人</u>程度<br />
+11月2日<br />
+13:00～13:30<br />
+13:30～14:00<br />
+14:00～14:30<br />
+14:30～15:00<br />
+15:00～15:30<br />
+15:30～16:00<br />
+16:00～16:30<br />
+16:30～17:00<br />
+<br />
+11月3日<br />
+11:00～11:30<br />
+11:30～12:00<br />
+------<br />
+12:30～13:00<br />
+13:00～13:30<br />
+13:30～14:00<br />
+14:00～14:30<br />
+14:30～15:00<br />
+15:00～15:30<br />
+15:30～16:00<br />
+16:00～16:30<br />
+16:30～17:00<br />
+<br />
+   <div class="EndDivision"></div>
+  </div>
+      </section>
+    </div>
+  </body>
+</html>

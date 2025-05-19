@@ -1,0 +1,4 @@
+User-agent: *
+
+Sitemap: http://tmusfc.jp/sitemap.xml
+

@@ -1,0 +1,18 @@
+.container{
+    background-image: url("../img/galaly.png");
+    background-repeat: no-repeat;
+}
+
+.content {
+    width: 780px;
+    height: 100%;
+    margin-top: 50px;
+    margin-left: 100px;
+}
+
+.main {
+    height: 100%;
+}
+.footer {
+    position: relative;
+}

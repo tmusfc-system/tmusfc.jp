@@ -1,0 +1,26 @@
+@font-face {
+  font-family: "KachoPB";
+  src: url("../fonts/KachofugetsuPBold.ttf");
+}
+
+@font-face {
+  font-family: "KachoPBB";
+  src:url("../fonts/KachofugetsuPBBold.ttf");
+}
+body{
+  background: url("../image/wakuabout.png") no-repeat;
+  background-position: center;
+  font-family: KachoPB;
+}
+
+h1.daimei{
+  font-size: 35pt;
+  text-align: center;
+}
+div.box{
+  width: 850px;
+  margin-left: 5%;
+  margin-right: 5%;
+  font-family: KachoPBB;
+  font-size: 15pt;
+}

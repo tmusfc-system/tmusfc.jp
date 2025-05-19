@@ -1,0 +1,39 @@
+.container{
+    background-image: url("../img/background.png");
+    background-repeat: no-repeat;
+}
+
+.content {
+    width: 780px;
+    height: 530px;
+    margin-top: 30px;
+    margin-left: 100px;
+}
+
+.content h1{
+    font-size: 40px;
+}
+
+.content p{
+    width: 320px;
+    margin-left: 430px;
+	font-size: 23px;
+
+}
+
+.content a{
+	 width: 230px;
+    margin-left: 40px;
+font-size: 23px;
+
+
+}
+
+.add{
+	float: left;
+	 width: 390px;
+	 border: 3px #000080 solid;
+    border-radius: 0px;
+    padding: 1px;
+
+}

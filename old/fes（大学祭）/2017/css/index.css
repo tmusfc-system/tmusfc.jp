@@ -1,0 +1,51 @@
+@font-face {
+  font-family: "KachoPB";
+  src: url("../fonts/KachofugetsuPBold.ttf");
+}
+
+@font-face {
+  font-family: "KachoPBB";
+  src:url("../fonts/KachofugetsuPBBold.ttf");
+}
+
+body{
+  background: url("../image/wakuindex2.png") no-repeat;
+  background-position: center;
+}
+
+.main{
+  font-family: KachoPB;
+}
+
+.daimei{
+  font-size: 35pt;
+  padding-left: 170px;
+  padding-top: 10px;
+}
+h2{
+  font-size: 28pt;
+}
+.hinichi{
+  text-align: center;
+  padding-left: 150px;
+}
+.sankahi{
+  text-align: right;
+  padding-right: 120px;
+}
+.basho{
+  font-size: 25pt;
+  padding-left: 120px;
+}
+p.basho{
+  font-family: KachoPBB;
+  font-size: 20pt;
+}
+h3.mail{
+  font-size: 15pt;
+  padding-left: 120px;
+}
+.seiriken{
+  font-size: 20pt;
+  padding-left: 120px;
+}

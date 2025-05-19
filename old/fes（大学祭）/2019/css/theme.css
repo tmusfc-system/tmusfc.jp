@@ -1,0 +1,43 @@
+.container{
+    background-image: url("../img/background.png");
+    background-repeat: no-repeat;
+}
+
+.content {
+    width: 610px;
+    height: 530px;
+    margin-top: 30px;
+    margin-left: 100px;
+}
+
+.content h1{
+    font-size: 32px;
+}
+
+.content p{
+    padding-top: 15px;
+    font-size: 23px;
+}
+
+.box {
+    position: relative;
+    margin: 2em 0;
+    padding: 0.5em 1em;
+    border: solid 3px #000080;
+    border-radius: 8px;
+}
+.box .box-title {
+    position: absolute;
+    display: inline-block;
+    top: -35px;
+    left: 10px;
+    padding: 0 9px;
+    line-height: 1;
+    font-size: 19px;
+    background: #FFF;
+    color: #000080;
+    font-weight: bold;
+}
+
+.img {text-align:center;}
+
