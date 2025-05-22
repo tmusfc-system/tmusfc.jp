@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /in_progress/
+Disallow: /old/
+Disallow: /ui/
