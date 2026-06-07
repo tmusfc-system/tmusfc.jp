@@ -2,6 +2,9 @@
 utils/env.py
 test.py
 node_modules/
+.vite/
+.cache
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

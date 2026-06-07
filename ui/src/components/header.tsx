@@ -28,6 +28,14 @@ export const Header = () => {
                     <Link to= "about">活動概要</Link>
                 </NavigationMenuLink>
              </NavigationMenuContent>
+            </NavigationMenuItem>
+            <NavigationMenuItem>
+             <NavigationMenuTrigger>出張実験</NavigationMenuTrigger>
+              <NavigationMenuContent>
+                <NavigationMenuLink className={navigationMenuTriggerStyle()} asChild>
+                  <Link to="examples">実験例</Link>
+                </NavigationMenuLink>
+              </NavigationMenuContent>
           </NavigationMenuItem>
         </NavigationMenuList>
       </NavigationMenu>      

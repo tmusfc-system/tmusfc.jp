@@ -21,7 +21,7 @@ export default function HomePage() {
               <PiFlaskBold className="!text-primary !w-8 !h-8 flex-none" />
               <div className="">
                 <AlertTitle className='font-bold text-xl'>お問い合わせ先</AlertTitle>
-                <AlertDescription>出張実験の依頼など興味があればお気軽に　tmusfc[at]gmail.comか上記SNSまでご連絡ください。</AlertDescription>
+                <AlertDescription>出張実験の依頼など興味があればお気軽に　tmusfc[at]gmail.comか上記SNSまでご連絡ください。([at]は@に置き換えてください。)</AlertDescription>
               </div>
             </div>
           </Alert>

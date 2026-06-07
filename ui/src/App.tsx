@@ -3,6 +3,7 @@ import HomePage from './Home'; {/*パスを追加次第このように追加し�
 import { Header } from './components/header.tsx'
 import Annual from './annual schedule.tsx';
 import About from './about.tsx';
+import Example from './examples.tsx';
 
 function App() {
 
@@ -13,6 +14,7 @@ function App() {
         <Route path="/" element={<HomePage />}/>
         <Route path="/annual" element={<Annual/>}/>
         <Route path="/about" element={<About/>}/>
+        <Route path="/examples" element={<Example/>}/>
       </Routes>
     </BrowserRouter>
   );
