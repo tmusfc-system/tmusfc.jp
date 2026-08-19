@@ -12,7 +12,7 @@ export default function Annual() {
           </div>
           <div className="border-l-2 border-slate-200 pl-6 pb-6">
             <h3 className="font-semibold text-lg">入部期間</h3>
-            <p className="text-slate-600 mt-1">中央新歓や部室開放で当サークルの説明や簡単な実験を通してTMU-SFCについて知ってもらいます。</p>
+            <p className="text-slate-600 mt-1">中央新歓や部室開放で当サークルの説明や簡単な実験を通してTMU-SFCについてご紹介いたします。</p>
           </div>
         </div>
 
@@ -40,8 +40,8 @@ export default function Annual() {
             7月
           </div>
           <div className="border-l-2 border-slate-200 pl-6 pb-6">
-            <h3 className="font-semibold text-lg">試験期間</h3>
-            <p className="text-slate-600 mt-1">BBQやパーティーなどの行事を通じて上級生と新入部員が交流、親睦を深めます。</p>
+            <h3 className="font-semibold text-lg">出張実験</h3>
+            <p className="text-slate-600 mt-1">昨年度は7月に出張実験を行いました。</p>
           </div>
         </div>     
         <div className="flex gap-4">
@@ -50,9 +50,9 @@ export default function Annual() {
           </div>
           <div className="border-l-2 border-slate-200 pl-6 pb-6">
             <h3 className="font-semibold text-lg">予備実験</h3>
-            <p className="text-slate-600 mt-1 pb-3">11月の「体験！化学実験に向けて、あらかじめ予備実験をし、」</p>
+            <p className="text-slate-600 mt-1 pb-3">11月の「体験！化学実験」に向けて、あらかじめ予備実験をし、安全かつ円滑に実験が行えるようにします。</p>
             <h3 className="font-semibold text-lg">都立大子供まつり</h3>
-            <p className="text-slate-600 mt-1">例年都立大で行われる「都立大子供まつり」にて例年ブースを開き、出張実験を行っています。</p>
+            <p className="text-slate-600 mt-1">例年都立大で行われる「都立大子供まつり」にてブースを開き、出張実験を行っています。</p>
           </div>
         </div>     
         <div className="flex gap-4">
@@ -79,34 +79,25 @@ export default function Annual() {
           </div>
           <div className="border-l-2 border-slate-200 pl-6 pb-6">
             <h3 className="font-semibold text-lg">「体験！化学実験」</h3>
-            <p className="text-slate-600 mt-1">2年生が提案した「提案実験」の本番</p>
+            <p className="text-slate-600 mt-1">2年生が提案した「提案実験」を実際に行います。年間の活動の中で一番盛り上がる最大のイベントです。</p>
           </div>
-        </div>     
-        <div className="flex gap-4">
-          <div className="font-mono font-bold text-lg text-primary w-20 shrink-0">
-            12月
-          </div>
-          <div className="border-l-2 border-slate-200 pl-6 pb-6">
-            <h3 className="font-semibold text-lg">確定新歓</h3>
-            <p className="text-slate-600 mt-1">BBQやパーティーなどの行事を通じて上級生と新入部員が交流、親睦を深めます。</p>
-          </div>
-        </div>     
+        </div>          
         <div className="flex gap-4">
           <div className="font-mono font-bold text-lg text-primary w-20 shrink-0">
             1月
           </div>
           <div className="border-l-2 border-slate-200 pl-6 pb-6">
-            <h3 className="font-semibold text-lg"></h3>
-            <p className="text-slate-600 mt-1">BBQやパーティーなどの行事を通じて上級生と新入部員が交流、親睦を深めます。</p>
+            <h3 className="font-semibold text-lg">次年度役職決め</h3>
+            <p className="text-slate-600 mt-1">仕事はそれぞれの役職に割り振って行われるため、新年度を迎える前に役職を決めます。</p>
           </div>
         </div>     
         <div className="flex gap-4">
           <div className="font-mono font-bold text-lg text-primary w-20 shrink-0">
-            5月
+            2月
           </div>
           <div className="border-l-2 border-slate-200 pl-6 pb-6">
-            <h3 className="font-semibold text-lg">確定新歓</h3>
-            <p className="text-slate-600 mt-1">BBQやパーティーなどの行事を通じて上級生と新入部員が交流、親睦を深めます。</p>
+            <h3 className="font-semibold text-lg">合宿</h3>
+            <p className="text-slate-600 mt-1">部員同士の交流、親睦を主な目的として合宿を行います。</p>
           </div>
         </div>     
       </div>

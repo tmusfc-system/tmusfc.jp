@@ -12,6 +12,7 @@ export default function HomePage() {
           <div className='mx-auto my-auto text-center'>
             <Title>より多くの人に　化学の面白さを</Title>
             <p>東京都立大学の子供向け実験サークル</p>
+            <p>ホームページ鋭意作成中です。</p>
             <SNS />{/*別ファイルに切り出したSNSリンクデザインを呼び出した*/}
           </div>
         </div>
