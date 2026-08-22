@@ -3,7 +3,7 @@
 export default function Annual() {
   return (
     <div className="max-w-3xl mx-auto py-10 px-4">
-      <h1 className="text-3xl font-bold mb-8">年間の活動計画</h1>
+      <h1 className="text-3xl font-bold mb-8">年間の活動予定</h1>
       
       <div className="space-y-8">
         <div className="flex gap-4">

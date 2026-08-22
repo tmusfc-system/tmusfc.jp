@@ -19,20 +19,35 @@ export default function Example() {
                 <div className="border-l-2 border-slate-200 pl-6">
                     <h3 className="font-semibold text-lg">人工イクラづくり</h3>
                     <p className="text-slate-600 mt-2">
-                         塩化カルシウム水溶液に、海藻類のぬめりのもとであるアルギン酸ナトリウムの水溶液を滴下することで、粒々としたイクラの様なものが出来ます。これがマイクロカプセルです。<br />
+                         塩化カルシウム水溶液に、海藻類のぬめりのもとであるアルギン酸ナトリウムの水溶液を滴下することで、粒々としたイクラの様なものが出来ます。これが人工イクラです。(当サークルにてお作りしている人工イクラは食用ではありません。予めご了承ください。)<br />
                         【試薬】アルギン酸ナトリウム水溶液, 塩化カルシウム水溶液, インク<br />
                         【時間】15分
                     </p>
                 </div>
-                                <div className="border-l-2 border-slate-200 pl-6">
-                    <h3 className="font-semibold text-lg">ミラクルフラワー</h3>
+                <div className="border-l-2 border-slate-200 pl-6">
+                    <h3 className="font-semibold text-lg">尿素の結晶</h3>
                     <p className="text-slate-600 mt-2">
-                         酸性ではピンク色に、アルカリ性では青色を呈色する紫キャベツや紫イモの色素を染み込ませた半紙で花を作ります。クエン酸溶液や重曹を吹きかけることで、花をピンクと青色に変えることができます。<br />
-                        【試薬】紫イモ色素,炭酸水素ナトリウム（重曹）水溶液,クエン酸水溶液<br />
+                        尿素の結晶をつくって、成長を観察する実験です。様々な形のモールに尿素の溶液を染み込ませて、乾燥させることで、結晶をつくることができます。<br />
+                        【試薬】尿素<br />
                         【時間】20分
                     </p>
                 </div>
-                
+                <div className="border-l-2 border-slate-200 pl-6">
+                    <h3 className="font-semibold text-lg">冷えるカイロ</h3>
+                    <p className="text-slate-600 mt-2">
+                        水の入った袋を潰すだけでひんやり冷たくなるようなカイロを作ります。尿素と硝酸アンモニウムが水に溶解することによって周囲の熱を奪い、ひんやり冷たく感じます。<br />
+                        【試薬】尿素, 硝酸アンモニウム<br />
+                        【時間】15分
+                    </p>
+                </div>
+                                <div className="border-l-2 border-slate-200 pl-6">
+                    <h3 className="font-semibold text-lg">スライム作り</h3>
+                    <p className="text-slate-600 mt-2">
+                        スライム作りは簡単で面白く、子供たちに大人気の実験です。<br />
+                        スライムは、水とポリビニルアルコール(洗濯のり)とホウ砂を混ぜて作ります。<br />
+                        出張実験では、ゴムボールの様に弾ませて遊べる「はずむスライム」や、膨らませて遊べる「風船スライム」などの実験を行っております。<br />
+                    </p>
+                </div>
                 {/* 他の項目も同様に div で囲むだけで縦に綺麗に並びます */}
             </div>
         </div>
