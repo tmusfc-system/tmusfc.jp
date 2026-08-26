@@ -79,7 +79,7 @@ export default function Annual() {
           </div>
           <div className="border-l-2 border-slate-200 pl-6 pb-6">
             <h3 className="font-semibold text-lg">「体験！化学実験」</h3>
-            <p className="text-slate-600 mt-1">2年生が提案した「提案実験」を実際に行います。年間の活動の中で一番盛り上がる最大のイベントです。</p>
+            <p className="text-slate-600 mt-1">2年生が提案した思い思いの実験を実際に行います。また、例年スライム作り体験も合わせて行います。年間の活動の中で一番盛り上がる最大のイベントです。</p>
           </div>
         </div>          
         <div className="flex gap-4">
