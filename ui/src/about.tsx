@@ -1,4 +1,3 @@
-import {Link} from 'react-router-dom';
 export default function About(){
     return(
         <div className="max-w-3xl mx-auto py-10 px-4">
