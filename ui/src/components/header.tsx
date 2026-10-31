@@ -37,6 +37,17 @@ export const Header = () => {
                 </NavigationMenuLink>
               </NavigationMenuContent>
           </NavigationMenuItem>
+          <NavigationMenuItem>
+            <NavigationMenuTrigger>体験！化学実験</NavigationMenuTrigger>
+              <NavigationMenuContent>
+                <NavigationMenuLink className={navigationMenuTriggerStyle()} asChild>
+                    <Link to="taiken">概要</Link>
+                </NavigationMenuLink>
+                <NavigationMenuLink className={navigationMenuTriggerStyle()} asChild>
+                    <Link to="taiken2026">体験！化学実験2026</Link>
+                </NavigationMenuLink>
+              </NavigationMenuContent>
+          </NavigationMenuItem>
         </NavigationMenuList>
       </NavigationMenu>      
     </div>
