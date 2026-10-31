@@ -7,7 +7,7 @@ export default function Taiken_2026() {
 
             <h3 className="font-semibold text-2xl">概要</h3>
             <p className="text-slate-600 mt-1">
-              日時：2026年11月1日,3日 12:00-17:00 (最終受付16:30)<br /> 
+              日時：2026年11月1日,3日 12:00-16:30<br /> 
               場所：東京都立大学南大沢キャンパス8号館3階385,386実験室<br />
               参加費無料<br />
               全実験 <strong>整理券制</strong>
