@@ -8,7 +8,7 @@ export default function Taiken(){
             <h3 className="font-semibold text-lg">活動内容</h3>
             <p className="text-slate-600 mt-1">東京都立大学の化学好きな学生が運営する「体験!化学実験」は毎年恒例の「光る！弾むスライム」および2年生が思い思いに提案した実験を行っております。今年度のものは
               <Link
-                to="/2026"
+                to="/taiken2026"
                 className="text-blue-600 underline underline-offset-4 hover:text-blue-800"
                 >
                   2026年度特設ページ

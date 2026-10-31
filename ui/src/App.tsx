@@ -17,7 +17,7 @@ function App() {
         <Route path="/about" element={<About/>}/>
         <Route path="/examples" element={<Example/>}/>
         <Route path="/taiken" element={<Taiken/>}/>
-        <Route path="/2026" element={<Taiken_2026/>}/>
+        <Route path="/taiken2026" element={<Taiken_2026/>}/>
       </Routes>
     </BrowserRouter>
   );

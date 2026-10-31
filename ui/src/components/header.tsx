@@ -44,7 +44,7 @@ export const Header = () => {
                     <Link to="taiken">概要</Link>
                 </NavigationMenuLink>
                 <NavigationMenuLink className={navigationMenuTriggerStyle()} asChild>
-                    <Link to="2026">2026年度特設ページ</Link>
+                    <Link to="taiken2026">体験！化学実験2026</Link>
                 </NavigationMenuLink>
               </NavigationMenuContent>
           </NavigationMenuItem>
